@@ -1,0 +1,6 @@
+{
+  "name": "Күнделікті Жоспар",
+  "description": "Минималистік стильдегі күнделікті тапсырмалар мен жоспарлаушы қолданбасы",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
